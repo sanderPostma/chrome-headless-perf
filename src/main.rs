@@ -2,8 +2,7 @@ use std::{env};
 use std::collections::HashMap;
 use std::ffi::OsStr;
 
-
-use chrono::{Datelike, Timelike, Utc, Weekday};
+use chrono::{Utc};
 
 use headless_chrome::{Browser, LaunchOptionsBuilder};
 
