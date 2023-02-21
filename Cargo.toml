@@ -8,4 +8,3 @@ edition = "2021"
 [dependencies]
 headless_chrome = { version = "1.0.5", features = ["fetch"] }
 chrono = "0.4.23"
-num-traits = "0.2.15"

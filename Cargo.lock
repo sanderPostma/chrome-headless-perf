@@ -151,7 +151,6 @@ version = "0.1.0"
 dependencies = [
  "chrono",
  "headless_chrome",
- "num-traits",
 ]
 
 [[package]]

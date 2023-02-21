@@ -1,12 +1,7 @@
-use std::{env};
-use std::collections::HashMap;
 use std::ffi::OsStr;
-
 use chrono::{Utc};
 
 use headless_chrome::{Browser, LaunchOptionsBuilder};
-
-use num_traits::FromPrimitive;
 
 
 pub fn main() {
